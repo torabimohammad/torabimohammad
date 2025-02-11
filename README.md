@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-- 📫 Reach me at mptruj015@gmail.com | [LinkedIn](https://www.linkedin.com/in/mohammad-torabi/)
+- 📫 Reach me torabi.mohd@outlook.com | [LinkedIn](https://www.linkedin.com/in/mohammad-torabi/)
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)&nbsp;
